@@ -72,4 +72,4 @@ The Detection Lab project aimed to establish a controlled environment for **simu
 - **Attack Simulation & Telemetry Generation**  
 - **Alert Analysis & Threat Hunting**  
 - **Incident Response Planning**
--  **Memory Analysis**
+
